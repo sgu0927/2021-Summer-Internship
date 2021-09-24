@@ -10,7 +10,7 @@
   - ### 🛠 Experience
     - 책에서의 간단한 예제들만 수행해본 **NodeJS**를 이용하여 **따로 공부를 계속하며** 프로젝트를 수행했습니다.
     - babel, webpack, lint, prettier과 같은 JS build tool들의 설치, configuration을 해주는 [Ocular](https://github.com/uber-web/ocular)를 이용해서 진행해 **build system**을 익혔습니다.
-    - [XVIZ(data server)](https://github.com/uber/xviz),  [streetscape.gl(web server)](https://github.com/uber/streetscape.gl)이라는 **큰 구조의 오픈소스**를 customizing한 형태의 기존 서버를 바꾸기 위해 data flow를 따라가거나, github readme를 따라가는 등 직접 분석을 통해 구조를 익혀보았습니다.
+    - [XVIZ(data server)](https://github.com/uber/xviz),  [streetscape.gl(web server)](https://github.com/uber/streetscape.gl)이라는 **큰 구조의 오픈소스**를 customizing한 형태의 기존 서버를 바꾸기 위해 data flow를 따라가거나, github readme를 따라가는 등의 분석을 통해 구조를 익혀보았습니다.
     - 구현에 필요한 라이브러리가 **JavaScript**에서 제공하지 않는 경우 직접 다른 언어의 코드를 동일한 로직으로 구현하였습니다.
     - 주차별 과제를 수행하며 구현을 마친 뒤 Log를 이용한 Lab에서의 test(with wireshark), 실제 현장에서의 자율주행 test를 진행했습니다.
     - **다양한 환경에서 test**하며 bottleneck지점이 어딘지를 확인했고 개선한 system에서 visualize할 수 있는 한계까지 test해보았습니다.

@@ -4,7 +4,7 @@
     - [**AVS data server with ROS**](https://www.notion.so/AVS-data-server-with-ROS-d1976521c98e487da58c063514f30d95)
     - [**최종 발표 자료(ppt)**](https://gyeongukseo.notion.site/document-7b906092bbc241d28b765f8eba02f2f1)
   - ### :clipboard: Description
-    자율주행 스타트업에서 AVS(automobile visualization system) data server 구조 개선을 통한 bandwidth 향상을 목표로 한 프로젝트를 수행했습니다.  
+    자율주행 스타트업에서 **AVS(automobile visualization system) data server 구조 개선을 통한 bandwidth 향상**을 목표로 한 프로젝트를 수행했습니다.  
     
     Extra work로 Web server의 좌표 설정, map 띄우기를 저장된 파일을 읽어오는 것에서 실시간으로 개선했습니다
   - ### 🛠 Experience
